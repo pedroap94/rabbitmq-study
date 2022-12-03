@@ -1,0 +1,9 @@
+
+`
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(‹«ÖÖøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÂÚµ
+B
+java:S1602",Remove useless curly braces around statement(Ìí°Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘¨‰õ
